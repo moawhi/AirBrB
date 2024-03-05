@@ -1,4 +1,4 @@
-# ReactJS: AirBrB - https://moawhi.github.io/AirBNB/
+# ReactJS: AirBrB - https://moawhi.github.io/AirBrB/
 
 1. Background & Motivation
 2. The Task (Frontend)
