@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/AirBNB/static/js/main.ad68290a.js",
-    "index.html": "/AirBNB/index.html",
-    "main.ad68290a.js.map": "/AirBNB/static/js/main.ad68290a.js.map"
+    "main.js": "/AirBrB/static/js/main.ad68290a.js",
+    "index.html": "/AirBrB/index.html",
+    "main.ad68290a.js.map": "/AirBrB/static/js/main.ad68290a.js.map"
   },
   "entrypoints": [
     "static/js/main.ad68290a.js"
